@@ -4,13 +4,15 @@ This repository contains a collection of projects for analyzing various types of
 
 ## Projects
 
-1. [Analyzing DNS Logs Using Splunk SIEM](Project1-Analyzing-DNS-Logs.md)
-2. [Analyzing FTP Logs Using Splunk SIEM](Project2-Analyzing-FTP-Logs.md)
-3. [Analyzing HTTP Logs Using Splunk SIEM](Project3-Analyzing-HTTP-Logs.md)
-<!--4. [Analyzing SSH Logs Using Splunk SIEM](Project4-Analyzing-SSH-Logs.md)
-5. [Analyzing Tunnel Logs Using Splunk SIEM](Project5-Analyzing-Tunnel-Logs.md)
-6. [Analyzing SMTP Logs Using Splunk SIEM](Project6-Analyzing-SMTP-Logs.md)
-7. [Analyzing DHCP Logs Using Splunk SIEM](Project7-Analyzing-DHCP-Logs.md)-->
+1. [Analyzing DNS Logs Using Splunk SIEM](https://github.com/yourusername/Project1-Analyzing-DNS-Logs)
+2. [Analyzing FTP Logs Using Splunk SIEM](https://github.com/yourusername/Project2-Analyzing-FTP-Logs)
+3. [Analyzing HTTP Logs Using Splunk SIEM](https://github.com/yourusername/Project3-Analyzing-HTTP-Logs)
+<!-- 
+4. [Analyzing SSH Logs Using Splunk SIEM](https://github.com/yourusername/Project4-Analyzing-SSH-Logs)
+5. [Analyzing Tunnel Logs Using Splunk SIEM](https://github.com/yourusername/Project5-Analyzing-Tunnel-Logs)
+6. [Analyzing SMTP Logs Using Splunk SIEM](https://github.com/yourusername/Project6-Analyzing-SMTP-Logs)
+7. [Analyzing DHCP Logs Using Splunk SIEM](https://github.com/yourusername/Project7-Analyzing-DHCP-Logs)
+-->
 
 ## Prerequisites
 
