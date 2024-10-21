@@ -4,9 +4,9 @@ This repository contains a collection of projects for analyzing various types of
 
 ## Projects
 
-1. [Analyzing DNS Logs Using Splunk SIEM](https://github.com/yourusername/Project1-Analyzing-DNS-Logs)
-2. [Analyzing FTP Logs Using Splunk SIEM](https://github.com/yourusername/Project2-Analyzing-FTP-Logs)
-3. [Analyzing HTTP Logs Using Splunk SIEM](https://github.com/yourusername/Project3-Analyzing-HTTP-Logs)
+1. [Analyzing DNS Logs Using Splunk SIEM](https://github.com/savatexl47/Project1-Analyzing-DNS-Logs)
+2. [Analyzing FTP Logs Using Splunk SIEM](https://github.com/savatexl47/Project2-Analyzing-FTP-Logs)
+3. [Analyzing HTTP Logs Using Splunk SIEM](https://github.com/savatexl47/Project3-Analyzing-HTTP-Logs)
 <!-- 
 4. [Analyzing SSH Logs Using Splunk SIEM](https://github.com/yourusername/Project4-Analyzing-SSH-Logs)
 5. [Analyzing Tunnel Logs Using Splunk SIEM](https://github.com/yourusername/Project5-Analyzing-Tunnel-Logs)
